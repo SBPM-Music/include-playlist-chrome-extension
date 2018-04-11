@@ -1,2 +1,2 @@
-# sbpmmusic-chrome-extension
-Chrome extension that integrates SBPM Music playlist in Chrome Browser
+# inclide-playlist-chrome-extension
+Chrome extension to integrate your Youtube playlist inside Chrome Browser
